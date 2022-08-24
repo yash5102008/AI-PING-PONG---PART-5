@@ -1,0 +1,41 @@
+body{
+    text-align: center;
+}
+
+
+.heading{
+    width: 100%;
+    margin-top: 0px;
+    border-radius: 9;
+    border: 5 ridge black;
+    font-weight: 600;
+    color: black;
+    text-align: left;
+    font-size: 25px;
+    font-family: cursive;
+
+}
+
+.heading button{
+    float: right;
+    border: 4px ridge black;
+    color: black;
+    font-weight: 700;
+    border-radius: 9px;
+    font-family: cursive;
+}
+
+#start{
+    border-radius: 9px;
+    color: blue;
+}
+
+h4{
+    color: black;
+    font-weight: 700;
+    background-color: aliceblue;
+    line-height: 2;
+    position: fixed;
+    width: 100%;
+    margin-top: 470px;
+}
